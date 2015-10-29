@@ -31,3 +31,14 @@ F:\Schoolwork\Visual Studio\Examinationsprojekt\Asteroids\Asteroids\Asteroids\ob
 F:\Schoolwork\Visual Studio\Examinationsprojekt\Asteroids\Asteroids\Asteroids\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
 F:\Schoolwork\Visual Studio\Examinationsprojekt\Asteroids\Asteroids\Asteroids\obj\x86\Release\Asteroids.exe
 F:\Schoolwork\Visual Studio\Examinationsprojekt\Asteroids\Asteroids\Asteroids\obj\x86\Release\Asteroids.pdb
+D:\MAH\Objektorienterad Spelprogrammering\Period 1\Examination\Asteroids\Asteroids\Asteroids\bin\x86\Release\Content\asteroid.xnb
+D:\MAH\Objektorienterad Spelprogrammering\Period 1\Examination\Asteroids\Asteroids\Asteroids\bin\x86\Release\Content\background.xnb
+D:\MAH\Objektorienterad Spelprogrammering\Period 1\Examination\Asteroids\Asteroids\Asteroids\bin\x86\Release\Content\gamemenu.xnb
+D:\MAH\Objektorienterad Spelprogrammering\Period 1\Examination\Asteroids\Asteroids\Asteroids\bin\x86\Release\Content\gameover.xnb
+D:\MAH\Objektorienterad Spelprogrammering\Period 1\Examination\Asteroids\Asteroids\Asteroids\bin\x86\Release\Content\SpriteFont1.xnb
+D:\MAH\Objektorienterad Spelprogrammering\Period 1\Examination\Asteroids\Asteroids\Asteroids\bin\x86\Release\Asteroids.exe
+D:\MAH\Objektorienterad Spelprogrammering\Period 1\Examination\Asteroids\Asteroids\Asteroids\bin\x86\Release\Asteroids.pdb
+D:\MAH\Objektorienterad Spelprogrammering\Period 1\Examination\Asteroids\Asteroids\Asteroids\obj\x86\Release\Asteroids.csprojResolveAssemblyReference.cache
+D:\MAH\Objektorienterad Spelprogrammering\Period 1\Examination\Asteroids\Asteroids\Asteroids\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\MAH\Objektorienterad Spelprogrammering\Period 1\Examination\Asteroids\Asteroids\Asteroids\obj\x86\Release\Asteroids.exe
+D:\MAH\Objektorienterad Spelprogrammering\Period 1\Examination\Asteroids\Asteroids\Asteroids\obj\x86\Release\Asteroids.pdb

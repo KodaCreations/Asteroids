@@ -7,8 +7,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\Schoolwork\Visual Studio\Examinationsprojekt\Asteroids\Asteroids\Asteroids\bin\x86\Release\Content\asteroid.xnb</Output>
-      <Time>2014-09-21T15:30:24+02:00</Time>
+      <Output>D:\MAH\Objektorienterad Spelprogrammering\Period 1\Examination\Asteroids\Asteroids\Asteroids\bin\x86\Release\Content\asteroid.xnb</Output>
+      <Time>2014-09-21T16:30:24+02:00</Time>
     </Item>
     <Item>
       <Source>background.jpg</Source>
@@ -16,8 +16,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\Schoolwork\Visual Studio\Examinationsprojekt\Asteroids\Asteroids\Asteroids\bin\x86\Release\Content\background.xnb</Output>
-      <Time>2014-09-21T14:35:44+02:00</Time>
+      <Output>D:\MAH\Objektorienterad Spelprogrammering\Period 1\Examination\Asteroids\Asteroids\Asteroids\bin\x86\Release\Content\background.xnb</Output>
+      <Time>2014-09-21T15:35:44+02:00</Time>
     </Item>
     <Item>
       <Source>gamemenu.png</Source>
@@ -25,8 +25,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\Schoolwork\Visual Studio\Examinationsprojekt\Asteroids\Asteroids\Asteroids\bin\x86\Release\Content\gamemenu.xnb</Output>
-      <Time>2014-09-22T20:33:32+02:00</Time>
+      <Output>D:\MAH\Objektorienterad Spelprogrammering\Period 1\Examination\Asteroids\Asteroids\Asteroids\bin\x86\Release\Content\gamemenu.xnb</Output>
+      <Time>2014-09-22T21:33:32+02:00</Time>
     </Item>
     <Item>
       <Source>gameover.png</Source>
@@ -34,8 +34,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\Schoolwork\Visual Studio\Examinationsprojekt\Asteroids\Asteroids\Asteroids\bin\x86\Release\Content\gameover.xnb</Output>
-      <Time>2014-09-22T21:59:46+02:00</Time>
+      <Output>D:\MAH\Objektorienterad Spelprogrammering\Period 1\Examination\Asteroids\Asteroids\Asteroids\bin\x86\Release\Content\gameover.xnb</Output>
+      <Time>2014-09-22T22:59:46+02:00</Time>
     </Item>
     <Item>
       <Source>SpriteFont1.spritefont</Source>
@@ -43,8 +43,8 @@
       <Importer>FontDescriptionImporter</Importer>
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
-      <Output>F:\Schoolwork\Visual Studio\Examinationsprojekt\Asteroids\Asteroids\Asteroids\bin\x86\Release\Content\SpriteFont1.xnb</Output>
-      <Time>2014-09-19T12:32:22+02:00</Time>
+      <Output>D:\MAH\Objektorienterad Spelprogrammering\Period 1\Examination\Asteroids\Asteroids\Asteroids\bin\x86\Release\Content\SpriteFont1.xnb</Output>
+      <Time>2014-09-19T13:32:22+02:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
@@ -53,10 +53,10 @@
       <TargetProfile>Reach</TargetProfile>
       <BuildConfiguration>Release</BuildConfiguration>
       <CompressContent>true</CompressContent>
-      <RootDirectory>F:\Schoolwork\Visual Studio\Examinationsprojekt\Asteroids\Asteroids\AsteroidsContent\</RootDirectory>
-      <LoggerRootDirectory>F:\Schoolwork\Visual Studio\Examinationsprojekt\Asteroids\Asteroids\Asteroids\</LoggerRootDirectory>
-      <IntermediateDirectory>F:\Schoolwork\Visual Studio\Examinationsprojekt\Asteroids\Asteroids\Asteroids\obj\x86\Release\</IntermediateDirectory>
-      <OutputDirectory>F:\Schoolwork\Visual Studio\Examinationsprojekt\Asteroids\Asteroids\Asteroids\bin\x86\Release\Content\</OutputDirectory>
+      <RootDirectory>D:\MAH\Objektorienterad Spelprogrammering\Period 1\Examination\Asteroids\Asteroids\AsteroidsContent\</RootDirectory>
+      <LoggerRootDirectory>D:\MAH\Objektorienterad Spelprogrammering\Period 1\Examination\Asteroids\Asteroids\Asteroids\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\MAH\Objektorienterad Spelprogrammering\Period 1\Examination\Asteroids\Asteroids\Asteroids\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>D:\MAH\Objektorienterad Spelprogrammering\Period 1\Examination\Asteroids\Asteroids\Asteroids\bin\x86\Release\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>
@@ -85,7 +85,7 @@
       </Assembly>
       <Assembly>
         <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
-        <Value>2014-10-19T17:38:57.8003455+02:00</Value>
+        <Value>2015-10-19T15:51:42.285278+02:00</Value>
       </Assembly>
     </Assemblies>
   </Asset>
