@@ -1,5 +1,0 @@
-F:\Visual Studio\Examinationsprojekt\Asteroids\Asteroids\AsteroidsContent\obj\x86\Debug\AsteroidsContent.contentprojResolveAssemblyReference.cache
-G:\Visual Studio\Examinationsprojekt\Asteroids\Asteroids\AsteroidsContent\obj\x86\Debug\AsteroidsContent.contentprojResolveAssemblyReference.cache
-D:\Skola\_backup USB\Visual Studio\Examinationsprojekt\Asteroids\Asteroids\AsteroidsContent\obj\x86\Debug\AsteroidsContent.contentprojResolveAssemblyReference.cache
-H:\Visual Studio\Examinationsprojekt\Asteroids\Asteroids\AsteroidsContent\obj\x86\Debug\AsteroidsContent.contentprojResolveAssemblyReference.cache
-C:\Users\Andreas\Desktop\Asteroids\Asteroids\AsteroidsContent\obj\x86\Debug\AsteroidsContent.contentprojResolveAssemblyReference.cache
